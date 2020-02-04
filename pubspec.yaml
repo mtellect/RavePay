@@ -5,10 +5,10 @@ author: Jeremiah Ogbomo <jeremiahogbomo@gmail.com>
 homepage: https://github.com/jogboms/ravepay.dart
 
 environment:
-  sdk: ">=2.6.0-dev <3.0.0"
+  sdk: ">=2.2.2 <3.0.0"
 
 dependencies:
-  crypto: ^2.1.4
+  crypto: 
   tripledes: ^2.1.0
   http: ^0.12.0+2
   built_value: ^6.8.2
